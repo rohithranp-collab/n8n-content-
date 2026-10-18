@@ -1,5 +1,5 @@
 # n8n-content-
-learn from nextwave 
+n8n anthropic 
 # AI-Powered LinkedIn Post Automation Using n8n and Google Gemini
 
 ## 📌 Project Overview
